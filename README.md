@@ -61,6 +61,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VISHWXA7/VISHWXA7/output/snake.svg" alt="Snake animation" />
-
 ###
